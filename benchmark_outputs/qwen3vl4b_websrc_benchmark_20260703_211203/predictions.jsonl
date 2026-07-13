@@ -1,0 +1,200 @@
+{"id":"dev_auto_0100001_043354","question":"Write the type of engine it use.","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4","exact_match":0}
+{"id":"dev_auto_0100001_043355","question":"What kind of engine does it use?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043356","question":"What are the engine specs?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043357","question":"Which engine does this car have?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043358","question":"What engine is this?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043359","question":"What's the engine info?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043360","question":"What are the specifications of this engine?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043361","question":"What is the feature of the engine?","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043362","question":"Name the type of engine it use.","gold":"2.4 L Premium Unleaded I-4, 201 HP","prediction":"2.4 L Premium Unleaded I-4","exact_match":0}
+{"id":"dev_auto_0100001_043363","question":"How many seats are available in this model?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043364","question":"How many seats does it have?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043365","question":"How many seats are there?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043366","question":"How many seats are there in it.","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043367","question":"How many people can it hold?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043368","question":"What is the passenger capacity","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043369","question":"How many placements are there?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043370","question":"What is the number of seats?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043371","question":"How much people can enter?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043372","question":"How many passengers can this vehicle hold?","gold":"5","prediction":"5","exact_match":1}
+{"id":"dev_auto_0100001_043373","question":"Which transmission type dose it have?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043374","question":"How does the transmission works?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043375","question":"What type of transmission does it use?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043376","question":"What's the type of transmission?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043377","question":"Which transmission type is the vehicle equipped with?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043378","question":"What transmission does it use?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043379","question":"What kind of transmission does this vehicle have?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043380","question":"What kind of transmission does this car have?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043381","question":"What is the type of transmission used in this engine?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043382","question":"Tell me the transmission type","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043383","question":"What is the vehicle transmission?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100001_043384","question":"How does it drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043385","question":"What drivetrain is this?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043386","question":"What's the drive type?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043387","question":"What is the type of this drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043388","question":"Name the type of the drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043389","question":"Name the drive type?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043390","question":"What is the given drivetrain?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043391","question":"Which drivetrain is used in this vehicle?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043392","question":"What is the drive train type?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043393","question":"What type of drivetrain is used?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043394","question":"What is the type of drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043395","question":"What is the type of drivetrain?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043396","question":"What type of drivetrain is used in this engine?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043397","question":"What's the drivetrain?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043398","question":"Tell me the drive type.","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043399","question":"Tell me the type of the drive.","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043400","question":"What type of drive does it have?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043401","question":"What kind of drive is it?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043402","question":"What kind of drive train is there?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100001_043403","question":"What is the warranty for drivetrain?","gold":"6 Years \/ 70,000 Miles","prediction":"6 Years \/ 70,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043404","question":"What the drivetrain warranty policy is about?","gold":"6 Years \/ 70,000 Miles","prediction":"6 Years \/ 70,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043405","question":"What is the drivetrain warranty policy?","gold":"6 Years \/ 70,000 Miles","prediction":"6 Years \/ 70,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043406","question":"Tell me the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043407","question":"Mention the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043408","question":"Write the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043409","question":"What's the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043410","question":"What is the warranty for roadisde assistance?","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043411","question":"What the roadisde assistance policy is about?","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043412","question":"What is the roadisde assistance policy?","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100001_043413","question":"What is the volume of fuel to travel a distance ?","gold":"24 mpg City, 34 mpg Hwy","prediction":"24 mpg City","exact_match":0}
+{"id":"dev_auto_0100001_043414","question":"What is the fuel economy?","gold":"24 mpg City, 34 mpg Hwy","prediction":"24 mpg City, 34 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100001_043415","question":"How much mileage will be given by fuel economy ?","gold":"24 mpg City, 34 mpg Hwy","prediction":"24 mpg City","exact_match":0}
+{"id":"dev_auto_0100001_043416","question":"What is the fuel efficiency?","gold":"24 mpg City, 34 mpg Hwy","prediction":"24 mpg City, 34 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100001_043417","question":"How much distance is travelled per gallon of fuel used?","gold":"24 mpg City, 34 mpg Hwy","prediction":"24 mpg","exact_match":0}
+{"id":"dev_auto_0100001_043418","question":"What is the number of doors in it?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043419","question":"How many doors in it?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043420","question":"Tell me the number of passenger doors.","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043421","question":"How many doors are there on this model?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043422","question":"How many doors does this car have?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043423","question":"What is the total number of doors?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043424","question":"How many number of doors available in the above mentioned auto?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100001_043425","question":"Tell me about the size of engine.","gold":"2.4 L","prediction":"2.4 L Premium Unleaded I-4","exact_match":0}
+{"id":"dev_auto_0100001_043426","question":"What size is the engine on this model?","gold":"2.4 L","prediction":"2.4 L Premium Unleaded I-4","exact_match":0}
+{"id":"dev_auto_0100001_043427","question":"What is the actual size of the engine of this auto?","gold":"2.4 L","prediction":"2.4 L","exact_match":1}
+{"id":"dev_auto_0100001_043428","question":"Mention the size of engine.","gold":"2.4 L","prediction":"2.4 L Premium Unleaded I-4","exact_match":0}
+{"id":"dev_auto_0100001_043429","question":"What is the size of the engine?","gold":"2.4 L","prediction":"2.4 L Premium Unleaded I-4","exact_match":0}
+{"id":"dev_auto_0100001_043430","question":"What is the measurement of the engine of the auto?","gold":"2.4 L","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043431","question":"What is the actual size of this auto engine?","gold":"2.4 L","prediction":"2.4 L","exact_match":1}
+{"id":"dev_auto_0100001_043432","question":"Write the size of engine.","gold":"2.4 L","prediction":"2.4 L","exact_match":1}
+{"id":"dev_auto_0100001_043433","question":"How big is the engine?","gold":"2.4 L","prediction":"2.4 L Premium Unleaded I-4, 201","exact_match":0}
+{"id":"dev_auto_0100001_043434","question":"What's the engine size?","gold":"2.4 L","prediction":"2.4 L","exact_match":1}
+{"id":"dev_auto_0100001_043435","question":"How many mpg of fuel is used for city?","gold":"24 mpg City","prediction":"24","exact_match":0}
+{"id":"dev_auto_0100001_043436","question":"What is the gas efficient for city?","gold":"24 mpg City","prediction":"24 mpg","exact_match":0}
+{"id":"dev_auto_0100001_043437","question":"How much fuel economy is there for city?","gold":"24 mpg City","prediction":"24 mpg","exact_match":0}
+{"id":"dev_auto_0100001_043438","question":"What is the gas mileage for city?","gold":"24 mpg City","prediction":"24 mpg City","exact_match":1}
+{"id":"dev_auto_0100001_043439","question":"How much fuel for the city use?","gold":"24 mpg City","prediction":"24 mpg","exact_match":0}
+{"id":"dev_auto_0100001_043440","question":"What is the Miles Per Gallon for city?","gold":"24 mpg City","prediction":"24 mpg City","exact_match":1}
+{"id":"dev_auto_0100001_043441","question":"How many mpg of fuel is used on the highway?","gold":"34 mpg Hwy","prediction":"34","exact_match":0}
+{"id":"dev_auto_0100001_043442","question":"What is the mpg for highway driving?","gold":"34 mpg Hwy","prediction":"24 mpg Hwy","exact_match":0}
+{"id":"dev_auto_0100001_043443","question":"When driving in highway, what is the miles per gallon?","gold":"34 mpg Hwy","prediction":"24 mpg Hwy","exact_match":0}
+{"id":"dev_auto_0100001_043444","question":"How much fuel does this car use on the highway?","gold":"34 mpg Hwy","prediction":"34 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100001_043445","question":"For highways, what is the fuel economy?","gold":"34 mpg Hwy","prediction":"24 mpg","exact_match":0}
+{"id":"dev_auto_0100001_043446","question":"For highway use, what is the fuel economy?","gold":"34 mpg Hwy","prediction":"24 mpg Hwy","exact_match":0}
+{"id":"dev_auto_0100002_043447","question":"Write the type of engine it use.","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043448","question":"What kind of engine does it use?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043449","question":"What are the engine specs?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043450","question":"Which engine does this car have?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043451","question":"What engine is this?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043452","question":"What's the engine info?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043453","question":"What are the specifications of this engine?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043454","question":"What is the feature of the engine?","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043455","question":"Name the type of engine it use.","gold":"3.5 L Premium Unleaded V-6, 290 HP","prediction":"3.5 L Premium Unleaded V-6, 290","exact_match":0}
+{"id":"dev_auto_0100002_043456","question":"How many seats are available in this model?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043457","question":"How many seats does it have?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043458","question":"How many seats are there?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043459","question":"How many seats are there in it.","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043460","question":"How many people can it hold?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043461","question":"What is the passenger capacity","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043462","question":"How many placements are there?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043463","question":"What is the number of seats?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043464","question":"How much people can enter?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043465","question":"How many passengers can this vehicle hold?","gold":"7","prediction":"7","exact_match":1}
+{"id":"dev_auto_0100002_043466","question":"Which transmission type dose it have?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043467","question":"How does the transmission works?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043468","question":"What type of transmission does it use?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043469","question":"What's the type of transmission?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043470","question":"Which transmission type is the vehicle equipped with?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043471","question":"What transmission does it use?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043472","question":"What kind of transmission does this vehicle have?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043473","question":"What kind of transmission does this car have?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043474","question":"What is the type of transmission used in this engine?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043475","question":"Tell me the transmission type","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043476","question":"What is the vehicle transmission?","gold":"Automatic","prediction":"Automatic","exact_match":1}
+{"id":"dev_auto_0100002_043477","question":"How does it drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043478","question":"What drivetrain is this?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043479","question":"What's the drive type?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043480","question":"What is the type of this drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043481","question":"Name the type of the drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043482","question":"Name the drive type?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043483","question":"What is the given drivetrain?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043484","question":"Which drivetrain is used in this vehicle?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043485","question":"What is the drive train type?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043486","question":"What type of drivetrain is used?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043487","question":"What is the type of drive?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043488","question":"What is the type of drivetrain?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043489","question":"What type of drivetrain is used in this engine?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043490","question":"What's the drivetrain?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043491","question":"Tell me the drive type.","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043492","question":"Tell me the type of the drive.","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043493","question":"What type of drive does it have?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043494","question":"What kind of drive is it?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043495","question":"What kind of drive train is there?","gold":"Front Wheel Drive","prediction":"Front Wheel Drive","exact_match":1}
+{"id":"dev_auto_0100002_043496","question":"What is the warranty for drivetrain?","gold":"6 Years \/ 70,000 Miles","prediction":"6 Years \/ 70,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043497","question":"What the drivetrain warranty policy is about?","gold":"6 Years \/ 70,000 Miles","prediction":"6 Years \/ 70,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043498","question":"What is the drivetrain warranty policy?","gold":"6 Years \/ 70,000 Miles","prediction":"6 Years \/ 70,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043499","question":"Tell me the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043500","question":"Mention the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043501","question":"Write the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043502","question":"What's the basic warranty policy.","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043503","question":"What is the warranty for roadisde assistance?","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043504","question":"What the roadisde assistance policy is about?","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043505","question":"What is the roadisde assistance policy?","gold":"4 Years \/ 50,000 Miles","prediction":"4 Years \/ 50,000 Miles","exact_match":1}
+{"id":"dev_auto_0100002_043506","question":"What is the volume of fuel to travel a distance ?","gold":"20 mpg City, 27 mpg Hwy","prediction":"20 mpg City, 27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100002_043507","question":"What is the fuel economy?","gold":"20 mpg City, 27 mpg Hwy","prediction":"20 mpg City, 27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100002_043508","question":"How much mileage will be given by fuel economy ?","gold":"20 mpg City, 27 mpg Hwy","prediction":"27 mpg Hwy","exact_match":0}
+{"id":"dev_auto_0100002_043509","question":"What is the fuel efficiency?","gold":"20 mpg City, 27 mpg Hwy","prediction":"20 mpg City, 27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100002_043510","question":"How much distance is travelled per gallon of fuel used?","gold":"20 mpg City, 27 mpg Hwy","prediction":"27 mpg","exact_match":0}
+{"id":"dev_auto_0100002_043511","question":"What is the number of doors in it?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043512","question":"How many doors in it?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043513","question":"Tell me the number of passenger doors.","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043514","question":"How many doors are there on this model?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043515","question":"How many doors does this car have?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043516","question":"What is the total number of doors?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043517","question":"How many number of doors available in the above mentioned auto?","gold":"4","prediction":"4","exact_match":1}
+{"id":"dev_auto_0100002_043518","question":"Tell me about the size of engine.","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043519","question":"What size is the engine on this model?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043520","question":"What is the actual size of the engine of this auto?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043521","question":"Mention the size of engine.","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043522","question":"What is the size of the engine?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043523","question":"What is the measurement of the engine of the auto?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043524","question":"What is the actual size of this auto engine?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043525","question":"Write the size of engine.","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043526","question":"How big is the engine?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043527","question":"What's the engine size?","gold":"3.5 L","prediction":"3.5 L","exact_match":1}
+{"id":"dev_auto_0100002_043528","question":"How many mpg of fuel is used for city?","gold":"20 mpg City","prediction":"20","exact_match":0}
+{"id":"dev_auto_0100002_043529","question":"What is the gas efficient for city?","gold":"20 mpg City","prediction":"20 mpg","exact_match":0}
+{"id":"dev_auto_0100002_043530","question":"How much fuel economy is there for city?","gold":"20 mpg City","prediction":"20 mpg","exact_match":0}
+{"id":"dev_auto_0100002_043531","question":"What is the gas mileage for city?","gold":"20 mpg City","prediction":"20 mpg","exact_match":0}
+{"id":"dev_auto_0100002_043532","question":"How much fuel for the city use?","gold":"20 mpg City","prediction":"20 mpg","exact_match":0}
+{"id":"dev_auto_0100002_043533","question":"What is the Miles Per Gallon for city?","gold":"20 mpg City","prediction":"20 mpg","exact_match":0}
+{"id":"dev_auto_0100002_043534","question":"How many mpg of fuel is used on the highway?","gold":"27 mpg Hwy","prediction":"27","exact_match":0}
+{"id":"dev_auto_0100002_043535","question":"What is the mpg for highway driving?","gold":"27 mpg Hwy","prediction":"27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100002_043536","question":"When driving in highway, what is the miles per gallon?","gold":"27 mpg Hwy","prediction":"27","exact_match":0}
+{"id":"dev_auto_0100002_043537","question":"How much fuel does this car use on the highway?","gold":"27 mpg Hwy","prediction":"27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100002_043538","question":"For highways, what is the fuel economy?","gold":"27 mpg Hwy","prediction":"27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100002_043539","question":"For highway use, what is the fuel economy?","gold":"27 mpg Hwy","prediction":"27 mpg Hwy","exact_match":1}
+{"id":"dev_auto_0100003_043540","question":"Write the type of engine it use.","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6","exact_match":0}
+{"id":"dev_auto_0100003_043541","question":"What kind of engine does it use?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6","exact_match":0}
+{"id":"dev_auto_0100003_043542","question":"What are the engine specs?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6, 573 HP","exact_match":1}
+{"id":"dev_auto_0100003_043543","question":"Which engine does this car have?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6","exact_match":0}
+{"id":"dev_auto_0100003_043544","question":"What engine is this?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6, 573 HP","exact_match":1}
+{"id":"dev_auto_0100003_043545","question":"What's the engine info?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6, 573 HP","exact_match":1}
+{"id":"dev_auto_0100003_043546","question":"What are the specifications of this engine?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6, 573 HP","exact_match":1}
+{"id":"dev_auto_0100003_043547","question":"What is the feature of the engine?","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6, 573 HP","exact_match":1}
+{"id":"dev_auto_0100003_043548","question":"Name the type of engine it use.","gold":"3.5 L Twin Turbo Hybrid V-6, 573 HP","prediction":"3.5 L Twin Turbo Hybrid V-6","exact_match":0}
+{"id":"dev_auto_0100003_043549","question":"How many seats are available in this model?","gold":"2","prediction":"2","exact_match":1}
+{"id":"dev_auto_0100003_043550","question":"How many seats does it have?","gold":"2","prediction":"2","exact_match":1}
+{"id":"dev_auto_0100003_043551","question":"How many seats are there?","gold":"2","prediction":"2","exact_match":1}
+{"id":"dev_auto_0100003_043552","question":"How many seats are there in it.","gold":"2","prediction":"2","exact_match":1}
+{"id":"dev_auto_0100003_043553","question":"How many people can it hold?","gold":"2","prediction":"2","exact_match":1}

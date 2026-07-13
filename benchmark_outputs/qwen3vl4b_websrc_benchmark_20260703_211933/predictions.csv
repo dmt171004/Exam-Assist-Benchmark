@@ -1,0 +1,201 @@
+id,question,gold,prediction,exact_match
+dev_auto_0100001_043354,Write the type of engine it use.,"2.4 L Premium Unleaded I-4, 201 HP",2.4 L Premium Unleaded I-4,0
+dev_auto_0100001_043355,What kind of engine does it use?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043356,What are the engine specs?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043357,Which engine does this car have?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043358,What engine is this?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043359,What's the engine info?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043360,What are the specifications of this engine?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043361,What is the feature of the engine?,"2.4 L Premium Unleaded I-4, 201 HP","2.4 L Premium Unleaded I-4, 201 HP",1
+dev_auto_0100001_043362,Name the type of engine it use.,"2.4 L Premium Unleaded I-4, 201 HP",2.4 L Premium Unleaded I-4,0
+dev_auto_0100001_043363,How many seats are available in this model?,5,5,1
+dev_auto_0100001_043364,How many seats does it have?,5,5,1
+dev_auto_0100001_043365,How many seats are there?,5,5,1
+dev_auto_0100001_043366,How many seats are there in it.,5,5,1
+dev_auto_0100001_043367,How many people can it hold?,5,5,1
+dev_auto_0100001_043368,What is the passenger capacity,5,5,1
+dev_auto_0100001_043369,How many placements are there?,5,5,1
+dev_auto_0100001_043370,What is the number of seats?,5,5,1
+dev_auto_0100001_043371,How much people can enter?,5,5,1
+dev_auto_0100001_043372,How many passengers can this vehicle hold?,5,5,1
+dev_auto_0100001_043373,Which transmission type dose it have?,Automatic,Automatic,1
+dev_auto_0100001_043374,How does the transmission works?,Automatic,Automatic,1
+dev_auto_0100001_043375,What type of transmission does it use?,Automatic,Automatic,1
+dev_auto_0100001_043376,What's the type of transmission?,Automatic,Automatic,1
+dev_auto_0100001_043377,Which transmission type is the vehicle equipped with?,Automatic,Automatic,1
+dev_auto_0100001_043378,What transmission does it use?,Automatic,Automatic,1
+dev_auto_0100001_043379,What kind of transmission does this vehicle have?,Automatic,Automatic,1
+dev_auto_0100001_043380,What kind of transmission does this car have?,Automatic,Automatic,1
+dev_auto_0100001_043381,What is the type of transmission used in this engine?,Automatic,Automatic,1
+dev_auto_0100001_043382,Tell me the transmission type,Automatic,Automatic,1
+dev_auto_0100001_043383,What is the vehicle transmission?,Automatic,Automatic,1
+dev_auto_0100001_043384,How does it drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043385,What drivetrain is this?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043386,What's the drive type?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043387,What is the type of this drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043388,Name the type of the drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043389,Name the drive type?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043390,What is the given drivetrain?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043391,Which drivetrain is used in this vehicle?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043392,What is the drive train type?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043393,What type of drivetrain is used?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043394,What is the type of drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043395,What is the type of drivetrain?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043396,What type of drivetrain is used in this engine?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043397,What's the drivetrain?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043398,Tell me the drive type.,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043399,Tell me the type of the drive.,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043400,What type of drive does it have?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043401,What kind of drive is it?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043402,What kind of drive train is there?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100001_043403,What is the warranty for drivetrain?,"6 Years / 70,000 Miles","6 Years / 70,000 Miles",1
+dev_auto_0100001_043404,What the drivetrain warranty policy is about?,"6 Years / 70,000 Miles","6 Years / 70,000 Miles",1
+dev_auto_0100001_043405,What is the drivetrain warranty policy?,"6 Years / 70,000 Miles","6 Years / 70,000 Miles",1
+dev_auto_0100001_043406,Tell me the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043407,Mention the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043408,Write the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043409,What's the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043410,What is the warranty for roadisde assistance?,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043411,What the roadisde assistance policy is about?,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043412,What is the roadisde assistance policy?,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100001_043413,What is the volume of fuel to travel a distance ?,"24 mpg City, 34 mpg Hwy",24 mpg City,0
+dev_auto_0100001_043414,What is the fuel economy?,"24 mpg City, 34 mpg Hwy","24 mpg City, 34 mpg Hwy",1
+dev_auto_0100001_043415,How much mileage will be given by fuel economy ?,"24 mpg City, 34 mpg Hwy",24 mpg City,0
+dev_auto_0100001_043416,What is the fuel efficiency?,"24 mpg City, 34 mpg Hwy","24 mpg City, 34 mpg Hwy",1
+dev_auto_0100001_043417,How much distance is travelled per gallon of fuel used?,"24 mpg City, 34 mpg Hwy",24 mpg,0
+dev_auto_0100001_043418,What is the number of doors in it?,4,4,1
+dev_auto_0100001_043419,How many doors in it?,4,4,1
+dev_auto_0100001_043420,Tell me the number of passenger doors.,4,4,1
+dev_auto_0100001_043421,How many doors are there on this model?,4,4,1
+dev_auto_0100001_043422,How many doors does this car have?,4,4,1
+dev_auto_0100001_043423,What is the total number of doors?,4,4,1
+dev_auto_0100001_043424,How many number of doors available in the above mentioned auto?,4,4,1
+dev_auto_0100001_043425,Tell me about the size of engine.,2.4 L,2.4 L Premium Unleaded I-4,0
+dev_auto_0100001_043426,What size is the engine on this model?,2.4 L,2.4 L Premium Unleaded I-4,0
+dev_auto_0100001_043427,What is the actual size of the engine of this auto?,2.4 L,2.4 L,1
+dev_auto_0100001_043428,Mention the size of engine.,2.4 L,2.4 L Premium Unleaded I-4,0
+dev_auto_0100001_043429,What is the size of the engine?,2.4 L,2.4 L Premium Unleaded I-4,0
+dev_auto_0100001_043430,What is the measurement of the engine of the auto?,2.4 L,"2.4 L Premium Unleaded I-4, 201 HP",0
+dev_auto_0100001_043431,What is the actual size of this auto engine?,2.4 L,2.4 L,1
+dev_auto_0100001_043432,Write the size of engine.,2.4 L,2.4 L,1
+dev_auto_0100001_043433,How big is the engine?,2.4 L,"2.4 L Premium Unleaded I-4, 201 HP",0
+dev_auto_0100001_043434,What's the engine size?,2.4 L,2.4 L,1
+dev_auto_0100001_043435,How many mpg of fuel is used for city?,24 mpg City,24,0
+dev_auto_0100001_043436,What is the gas efficient for city?,24 mpg City,24 mpg,0
+dev_auto_0100001_043437,How much fuel economy is there for city?,24 mpg City,24 mpg,0
+dev_auto_0100001_043438,What is the gas mileage for city?,24 mpg City,24 mpg City,1
+dev_auto_0100001_043439,How much fuel for the city use?,24 mpg City,24 mpg,0
+dev_auto_0100001_043440,What is the Miles Per Gallon for city?,24 mpg City,24 mpg City,1
+dev_auto_0100001_043441,How many mpg of fuel is used on the highway?,34 mpg Hwy,34,0
+dev_auto_0100001_043442,What is the mpg for highway driving?,34 mpg Hwy,24 mpg Hwy,0
+dev_auto_0100001_043443,"When driving in highway, what is the miles per gallon?",34 mpg Hwy,24 mpg Hwy,0
+dev_auto_0100001_043444,How much fuel does this car use on the highway?,34 mpg Hwy,34 mpg Hwy,1
+dev_auto_0100001_043445,"For highways, what is the fuel economy?",34 mpg Hwy,24 mpg,0
+dev_auto_0100001_043446,"For highway use, what is the fuel economy?",34 mpg Hwy,24 mpg Hwy,0
+dev_auto_0100002_043447,Write the type of engine it use.,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043448,What kind of engine does it use?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043449,What are the engine specs?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043450,Which engine does this car have?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043451,What engine is this?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043452,What's the engine info?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043453,What are the specifications of this engine?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043454,What is the feature of the engine?,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043455,Name the type of engine it use.,"3.5 L Premium Unleaded V-6, 290 HP","3.5 L Premium Unleaded V-6, 290 HP",1
+dev_auto_0100002_043456,How many seats are available in this model?,7,7,1
+dev_auto_0100002_043457,How many seats does it have?,7,7,1
+dev_auto_0100002_043458,How many seats are there?,7,7,1
+dev_auto_0100002_043459,How many seats are there in it.,7,7,1
+dev_auto_0100002_043460,How many people can it hold?,7,7,1
+dev_auto_0100002_043461,What is the passenger capacity,7,7,1
+dev_auto_0100002_043462,How many placements are there?,7,7,1
+dev_auto_0100002_043463,What is the number of seats?,7,7,1
+dev_auto_0100002_043464,How much people can enter?,7,7,1
+dev_auto_0100002_043465,How many passengers can this vehicle hold?,7,7,1
+dev_auto_0100002_043466,Which transmission type dose it have?,Automatic,Automatic,1
+dev_auto_0100002_043467,How does the transmission works?,Automatic,Automatic,1
+dev_auto_0100002_043468,What type of transmission does it use?,Automatic,Automatic,1
+dev_auto_0100002_043469,What's the type of transmission?,Automatic,Automatic,1
+dev_auto_0100002_043470,Which transmission type is the vehicle equipped with?,Automatic,Automatic,1
+dev_auto_0100002_043471,What transmission does it use?,Automatic,Automatic,1
+dev_auto_0100002_043472,What kind of transmission does this vehicle have?,Automatic,Automatic,1
+dev_auto_0100002_043473,What kind of transmission does this car have?,Automatic,Automatic,1
+dev_auto_0100002_043474,What is the type of transmission used in this engine?,Automatic,Automatic,1
+dev_auto_0100002_043475,Tell me the transmission type,Automatic,Automatic,1
+dev_auto_0100002_043476,What is the vehicle transmission?,Automatic,Automatic,1
+dev_auto_0100002_043477,How does it drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043478,What drivetrain is this?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043479,What's the drive type?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043480,What is the type of this drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043481,Name the type of the drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043482,Name the drive type?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043483,What is the given drivetrain?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043484,Which drivetrain is used in this vehicle?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043485,What is the drive train type?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043486,What type of drivetrain is used?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043487,What is the type of drive?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043488,What is the type of drivetrain?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043489,What type of drivetrain is used in this engine?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043490,What's the drivetrain?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043491,Tell me the drive type.,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043492,Tell me the type of the drive.,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043493,What type of drive does it have?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043494,What kind of drive is it?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043495,What kind of drive train is there?,Front Wheel Drive,Front Wheel Drive,1
+dev_auto_0100002_043496,What is the warranty for drivetrain?,"6 Years / 70,000 Miles","6 Years / 70,000 Miles",1
+dev_auto_0100002_043497,What the drivetrain warranty policy is about?,"6 Years / 70,000 Miles","6 Years / 70,000 Miles",1
+dev_auto_0100002_043498,What is the drivetrain warranty policy?,"6 Years / 70,000 Miles","6 Years / 70,000 Miles",1
+dev_auto_0100002_043499,Tell me the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043500,Mention the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043501,Write the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043502,What's the basic warranty policy.,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043503,What is the warranty for roadisde assistance?,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043504,What the roadisde assistance policy is about?,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043505,What is the roadisde assistance policy?,"4 Years / 50,000 Miles","4 Years / 50,000 Miles",1
+dev_auto_0100002_043506,What is the volume of fuel to travel a distance ?,"20 mpg City, 27 mpg Hwy","20 mpg City, 27 mpg Hwy",1
+dev_auto_0100002_043507,What is the fuel economy?,"20 mpg City, 27 mpg Hwy","20 mpg City, 27 mpg Hwy",1
+dev_auto_0100002_043508,How much mileage will be given by fuel economy ?,"20 mpg City, 27 mpg Hwy",27 mpg Hwy,0
+dev_auto_0100002_043509,What is the fuel efficiency?,"20 mpg City, 27 mpg Hwy","20 mpg City, 27 mpg Hwy",1
+dev_auto_0100002_043510,How much distance is travelled per gallon of fuel used?,"20 mpg City, 27 mpg Hwy",27 mpg,0
+dev_auto_0100002_043511,What is the number of doors in it?,4,4,1
+dev_auto_0100002_043512,How many doors in it?,4,4,1
+dev_auto_0100002_043513,Tell me the number of passenger doors.,4,4,1
+dev_auto_0100002_043514,How many doors are there on this model?,4,4,1
+dev_auto_0100002_043515,How many doors does this car have?,4,4,1
+dev_auto_0100002_043516,What is the total number of doors?,4,4,1
+dev_auto_0100002_043517,How many number of doors available in the above mentioned auto?,4,4,1
+dev_auto_0100002_043518,Tell me about the size of engine.,3.5 L,3.5 L,1
+dev_auto_0100002_043519,What size is the engine on this model?,3.5 L,3.5 L,1
+dev_auto_0100002_043520,What is the actual size of the engine of this auto?,3.5 L,3.5 L,1
+dev_auto_0100002_043521,Mention the size of engine.,3.5 L,3.5 L,1
+dev_auto_0100002_043522,What is the size of the engine?,3.5 L,3.5 L,1
+dev_auto_0100002_043523,What is the measurement of the engine of the auto?,3.5 L,3.5 L,1
+dev_auto_0100002_043524,What is the actual size of this auto engine?,3.5 L,3.5 L,1
+dev_auto_0100002_043525,Write the size of engine.,3.5 L,3.5 L,1
+dev_auto_0100002_043526,How big is the engine?,3.5 L,3.5 L,1
+dev_auto_0100002_043527,What's the engine size?,3.5 L,3.5 L,1
+dev_auto_0100002_043528,How many mpg of fuel is used for city?,20 mpg City,20,0
+dev_auto_0100002_043529,What is the gas efficient for city?,20 mpg City,20 mpg,0
+dev_auto_0100002_043530,How much fuel economy is there for city?,20 mpg City,20 mpg,0
+dev_auto_0100002_043531,What is the gas mileage for city?,20 mpg City,20 mpg,0
+dev_auto_0100002_043532,How much fuel for the city use?,20 mpg City,20 mpg,0
+dev_auto_0100002_043533,What is the Miles Per Gallon for city?,20 mpg City,20 mpg,0
+dev_auto_0100002_043534,How many mpg of fuel is used on the highway?,27 mpg Hwy,27,0
+dev_auto_0100002_043535,What is the mpg for highway driving?,27 mpg Hwy,27 mpg Hwy,1
+dev_auto_0100002_043536,"When driving in highway, what is the miles per gallon?",27 mpg Hwy,27,0
+dev_auto_0100002_043537,How much fuel does this car use on the highway?,27 mpg Hwy,27 mpg Hwy,1
+dev_auto_0100002_043538,"For highways, what is the fuel economy?",27 mpg Hwy,27 mpg Hwy,1
+dev_auto_0100002_043539,"For highway use, what is the fuel economy?",27 mpg Hwy,27 mpg Hwy,1
+dev_auto_0100003_043540,Write the type of engine it use.,"3.5 L Twin Turbo Hybrid V-6, 573 HP",3.5 L Twin Turbo Hybrid V-6,0
+dev_auto_0100003_043541,What kind of engine does it use?,"3.5 L Twin Turbo Hybrid V-6, 573 HP",3.5 L Twin Turbo Hybrid V-6,0
+dev_auto_0100003_043542,What are the engine specs?,"3.5 L Twin Turbo Hybrid V-6, 573 HP","3.5 L Twin Turbo Hybrid V-6, 573 HP",1
+dev_auto_0100003_043543,Which engine does this car have?,"3.5 L Twin Turbo Hybrid V-6, 573 HP",3.5 L Twin Turbo Hybrid V-6,0
+dev_auto_0100003_043544,What engine is this?,"3.5 L Twin Turbo Hybrid V-6, 573 HP","3.5 L Twin Turbo Hybrid V-6, 573 HP",1
+dev_auto_0100003_043545,What's the engine info?,"3.5 L Twin Turbo Hybrid V-6, 573 HP","3.5 L Twin Turbo Hybrid V-6, 573 HP",1
+dev_auto_0100003_043546,What are the specifications of this engine?,"3.5 L Twin Turbo Hybrid V-6, 573 HP","3.5 L Twin Turbo Hybrid V-6, 573 HP",1
+dev_auto_0100003_043547,What is the feature of the engine?,"3.5 L Twin Turbo Hybrid V-6, 573 HP","3.5 L Twin Turbo Hybrid V-6, 573 HP",1
+dev_auto_0100003_043548,Name the type of engine it use.,"3.5 L Twin Turbo Hybrid V-6, 573 HP",3.5 L Twin Turbo Hybrid V-6,0
+dev_auto_0100003_043549,How many seats are available in this model?,2,2,1
+dev_auto_0100003_043550,How many seats does it have?,2,2,1
+dev_auto_0100003_043551,How many seats are there?,2,2,1
+dev_auto_0100003_043552,How many seats are there in it.,2,2,1
+dev_auto_0100003_043553,How many people can it hold?,2,2,1
