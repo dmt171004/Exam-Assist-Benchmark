@@ -26,7 +26,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 BENCHMARK_FOLDER = (
-    "qwen3_vl_4b_finetuned(rslora-v5)_domain_test_20260710_151144"
+    "qwen3_vl_4b_finetuned(rslora-v3)_domain_test_20260714_111244"
 )
 
 PREDICTION_FILE = (
