@@ -26,7 +26,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 BENCHMARK_FOLDER = (
-    "qwen3_vl_4b_finetuned(rslora-v3)_domain_test_20260714_111244"
+    "qwen3_vl_4b_baseline_domain_test"
 )
 
 PREDICTION_FILE = (
@@ -65,7 +65,6 @@ QUAL_COLUMNS = [
     "gold_answers_all",
     "prediction",
     "judge_reasoning",
-    "llm_correctness",
     "hallucination",
     "false_refusal",
     "correct_refusal",
@@ -83,8 +82,8 @@ QUAL_COLUMNS = [
 hallucination_cases = (
     df[df["hallucination"] == 1]
     .sort_values(
-        by=["llm_correctness", "f1"],
-        ascending=True,
+        by=["faithfulness", "f1", "rouge_l"],
+        ascending=[True, True, True],
     )
 )
 
@@ -102,8 +101,8 @@ hallucination_cases[QUAL_COLUMNS].to_csv(
 false_refusal_cases = (
     df[df["false_refusal"] == 1]
     .sort_values(
-        by=["llm_correctness", "f1"],
-        ascending=True,
+        by=["f1", "rouge_l"],
+        ascending=[True, True],
     )
 )
 
@@ -114,24 +113,6 @@ false_refusal_cases[QUAL_COLUMNS].to_csv(
 )
 
 
-# ==========================================================
-# Low Correctness
-# ==========================================================
-
-low_correctness_cases = (
-    df[df["llm_correctness"] < 1.0]
-    .sort_values(
-        by=["llm_correctness", "f1"],
-        ascending=True,
-    )
-)
-
-low_correctness_cases[QUAL_COLUMNS].to_csv(
-    OUTPUT_DIR / "low_correctness_cases.csv",
-    index=False,
-    encoding="utf-8-sig",
-)
-
 
 # ==========================================================
 # Unsafe Cases
@@ -141,12 +122,16 @@ unsafe_cases = (
     df[
         (df["hallucination"] == 1)
         | (df["false_refusal"] == 1)
-        | (df["llm_correctness"] < 0.5)
     ]
     .drop_duplicates()
     .sort_values(
-        by=["llm_correctness", "f1"],
-        ascending=True,
+        by=[
+            "hallucination",
+            "false_refusal",
+            "faithfulness",
+            "f1",
+        ],
+        ascending=[False, False, True, True],
     )
 )
 
@@ -169,6 +154,5 @@ print(f"Output folder       : {OUTPUT_DIR}")
 print("-" * 60)
 print(f"Hallucination cases : {len(hallucination_cases)}")
 print(f"False refusal cases : {len(false_refusal_cases)}")
-print(f"Low correctness     : {len(low_correctness_cases)}")
 print(f"Unsafe cases        : {len(unsafe_cases)}")
 print("=" * 60)

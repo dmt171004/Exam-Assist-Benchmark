@@ -125,10 +125,6 @@ for summary_file in summary_files:
             # ==================================================
             "Containment": row["answerable_containment"],
 
-            # ==================================================
-            # LLM-as-a-Judge
-            # ==================================================
-            "LLM Correctness": row["overall_llm_correctness"],
 
             # ==================================================
             # Safety
@@ -322,7 +318,6 @@ save_comparison_chart(
         "Overall F1",
         "ROUGE-L",
         "Containment",
-        "LLM Correctness",
     ],
     title="Accuracy and Grounding Comparison",
     ylabel="Score (%)",
