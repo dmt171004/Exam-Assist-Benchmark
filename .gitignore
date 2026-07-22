@@ -46,7 +46,7 @@ models/
 # =========================
 requirements.txt
 
-
+qwen3_vl_4b_finetuned_viquad_test
 # Nếu không muốn push báo cáo benchmark
 # benchmark_reports/
 

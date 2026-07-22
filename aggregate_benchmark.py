@@ -12,6 +12,7 @@ benchmark_outputs/
 from pathlib import Path
 
 import pandas as pd
+import re
 
 # ==========================================================
 # CONFIG
@@ -40,11 +41,11 @@ def infer_method(folder_name: str) -> str:
     if "baseline" in name:
         return "Baseline"
 
-    if "rslora" in name:
-        return "RSLoRA"
-
-    if "qlora" in name:
+    if "finetuned(qlora)" in name or "(qlora)" in name:
         return "QLoRA"
+
+    if re.search(r"rs\d+", name):
+        return "RSLoRA"
 
     if "lora" in name:
         return "LoRA"
@@ -53,27 +54,32 @@ def infer_method(folder_name: str) -> str:
 
 
 def infer_version(folder_name: str) -> str:
-    name = folder_name.lower()
+    """
+    Extract LoRA rank/version.
 
-    for version in [
-        "v5",
-        "v4",
-        "v3",
-        "v2",
-        "v1",
-    ]:
-        if version in name:
-            return version.upper()
+    baseline -> "-"
+    qlora    -> "r=8" (or "-" if you don't want to show rank)
+    rs8      -> "r=8"
+    rs16     -> "r=16"
+    rs32     -> "r=32"
+    """
+    name = folder_name.lower()
 
     if "baseline" in name:
         return "-"
+
+    if "(qlora)" in name:
+        return "r=8"      # hoặc "-" nếu QLoRA là baseline
+
+    m = re.search(r"rs(\d+)", name)
+    if m:
+        return f"r={m.group(1)}"
 
     return "-"
 
 
 def shorten_model(model_path: str) -> str:
     return Path(model_path).name
-
 
 # ==========================================================
 # MAIN
@@ -315,6 +321,7 @@ def save_comparison_chart(
 save_comparison_chart(
     comparison,
     metrics=[
+        "Overall EM",
         "Overall F1",
         "ROUGE-L",
         "Containment",
