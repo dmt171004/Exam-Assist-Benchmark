@@ -4,3 +4,4 @@ qwen3_examassist_merged_4b_qlora_domain,QLoRA,-,17.907,61.2138,60.4106,36.5482,1
 qwen3_examassist_merged_4b_rslora_domain_v3,RSLoRA,V3,19.3023,67.2498,65.959,42.3858,2.0305,91.6667,5.5556,0.0287,34.8797
 qwen3_examassist_merged_4b_rslora_domain_v4,RSLoRA,V4,18.8372,65.9006,64.412,40.8629,1.7766,91.6667,2.7778,0.0281,35.5636
 qwen3_examassist_merged_4b_rslora_domain_v5,RSLoRA,V5,18.6047,66.0922,64.9226,40.3553,1.7766,91.6667,5.5556,0.0281,35.5353
+qwen3_examassist_merged_4b_rslora_domain_v3,Unknown,-,29.785,58.9073,58.3227,75.1979,0.3392,31.18,25.323,0.0304,32.853
