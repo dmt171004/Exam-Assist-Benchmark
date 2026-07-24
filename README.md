@@ -207,7 +207,7 @@ Examples include:
 
 Contains the complete QLoRA training pipeline, dataset preparation, and model adaptation process.
 
-➡️ https://github.com/yourname/examassist-training
+➡️ [https://github.com/yourname/examassist-training](https://github.com/dmt171004/Exam-Assist-Finetuning)
 
 ---
 
@@ -215,7 +215,7 @@ Contains the complete QLoRA training pipeline, dataset preparation, and model ad
 
 Contains the production-ready ExamAssist AI system integrating Hybrid RAG and the fine-tuned language model.
 
-➡️ https://github.com/yourname/examassist-system
+➡️ [https://github.com/yourname/examassist-system](https://github.com/dinhkhoi124/Exam-Proctor-Assist/tree/main)
 
 ---
 
