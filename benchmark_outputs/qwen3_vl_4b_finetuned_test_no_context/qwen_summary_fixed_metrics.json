@@ -1,0 +1,16 @@
+{
+  "model": "qwen3_examassist_merged_4b_rslora_domain_v3",
+  "samples": 430,
+  "answerable_samples": 430,
+  "unanswerable_samples": 0,
+  "answerable_em": 19.07,
+  "answerable_f1": 67.27,
+  "answerable_rouge_l": 65.96,
+  "answerable_containment": 27.67,
+  "overall_em": 19.07,
+  "overall_f1": 67.27,
+  "overall_rouge_l": 65.96,
+  "avg_latency_sec": 0.0289,
+  "throughput_samples_per_sec": 34.56,
+  "total_time_sec": 12.44
+}

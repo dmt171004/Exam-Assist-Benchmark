@@ -1,0 +1,17 @@
+{
+  "model": "gpt-4o-mini",
+  "evaluation_type": "NO_CONTEXT_API",
+  "samples": 430,
+  "answerable_samples": 394,
+  "unanswerable_samples": 36,
+  "answerable_em": 0.0,
+  "answerable_f1": 15.91,
+  "answerable_rouge_l": 12.92,
+  "answerable_containment": 1.02,
+  "overall_em": 0.0,
+  "overall_f1": 14.94,
+  "overall_rouge_l": 12.14,
+  "avg_latency_sec": 1.973,
+  "throughput_samples_per_sec": 0.51,
+  "total_time_sec": 848.41
+}

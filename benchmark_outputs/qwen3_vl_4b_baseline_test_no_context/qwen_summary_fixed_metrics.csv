@@ -1,0 +1,2 @@
+﻿model,samples,answerable_samples,unanswerable_samples,answerable_em,answerable_f1,answerable_rouge_l,answerable_containment,overall_em,overall_f1,overall_rouge_l,avg_latency_sec,throughput_samples_per_sec,total_time_sec
+Qwen3-VL-4B-Instruct,430,430,0,8.37,59.65,57.31,18.14,8.37,59.65,57.31,0.0489,20.46,21.02
