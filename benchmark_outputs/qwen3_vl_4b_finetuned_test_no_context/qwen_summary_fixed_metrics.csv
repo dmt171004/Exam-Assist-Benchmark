@@ -1,2 +1,2 @@
-﻿model,samples,answerable_samples,unanswerable_samples,answerable_em,answerable_f1,answerable_rouge_l,answerable_containment,overall_em,overall_f1,overall_rouge_l,avg_latency_sec,throughput_samples_per_sec,total_time_sec
-qwen3_examassist_merged_4b_rslora_domain_v3,430,430,0,19.07,67.27,65.96,27.67,19.07,67.27,65.96,0.0289,34.56,12.44
+﻿model,samples,answerable_samples,unanswerable_samples,answerable_em,answerable_f1,answerable_rouge_l,answerable_containment,overall_em,overall_f1,overall_rouge_l,avg_pred_tokens,avg_latency_sec,throughput_samples_per_sec,total_time_sec
+qwen3_examassist_merged_4b_rslora_domain_v3,430,430,0,0.93,22.99,20.63,1.4,0.93,22.99,20.63,23.05,0.0375,26.64,16.14

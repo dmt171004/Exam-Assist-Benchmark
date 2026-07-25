@@ -1,2 +1,2 @@
-﻿model,evaluation_type,samples,answerable_samples,unanswerable_samples,answerable_em,answerable_f1,answerable_rouge_l,answerable_containment,overall_em,overall_f1,overall_rouge_l,avg_latency_sec,throughput_samples_per_sec,total_time_sec
-gpt-4o-mini,NO_CONTEXT_API,430,394,36,0.0,15.91,12.92,1.02,0.0,14.94,12.14,1.973,0.51,848.41
+﻿model,evaluation_type,samples,answerable_samples,unanswerable_samples,answerable_em,answerable_f1,answerable_rouge_l,answerable_containment,overall_em,overall_f1,overall_rouge_l,avg_pred_tokens,avg_latency_sec,throughput_samples_per_sec,total_time_sec
+gpt-4o-mini,NO_CONTEXT_API,430,394,36,0.0,16.61,13.53,0.76,0.0,15.65,12.78,74.39,1.4072,0.71,605.11

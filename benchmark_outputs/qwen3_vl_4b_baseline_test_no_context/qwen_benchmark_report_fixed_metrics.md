@@ -15,20 +15,21 @@ Number of samples: **430**
 ### Answerable QA
 | Metric | Value |
 |---|---:|
-| Answerable EM | 8.37% |
-| Answerable Token F1 | 59.65% |
-| Answerable ROUGE-L | 57.31% |
-| Containment Accuracy | 18.14% |
+| Answerable EM | 0.00% |
+| Answerable Token F1 | 13.54% |
+| Answerable ROUGE-L | 11.30% |
+| Containment Accuracy | 0.70% |
 
 
 ### Overall
 | Metric | Value |
 |---|---:|
-| Overall EM | 8.37% |
-| Overall Token F1 | 59.65% |
-| Overall ROUGE-L | 57.31% |
-| Average Latency | 0.0489 sec/sample |
-| Throughput | 20.46 samples/sec |
+| Overall EM | 0.00% |
+| Overall Token F1 | 13.54% |
+| Overall ROUGE-L | 11.30% |
+| Average Generated Tokens | 105.53 |
+| Average Latency | 0.1500 sec/sample |
+| Throughput | 6.67 samples/sec |
 
 ## Interpretation
 This benchmark follows a SQuAD2.0 / ViQuAD2.0-style evaluation because the dataset contains both answerable and unanswerable questions.
