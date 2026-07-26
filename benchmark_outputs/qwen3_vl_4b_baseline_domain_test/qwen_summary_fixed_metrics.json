@@ -28,7 +28,7 @@
   "hallucination_rate_overall": 4.651162790697675,
   "avg_gold_len_words": 12.565116279069768,
   "avg_pred_len_words": 22.94418604651163,
-  "total_inference_time_sec": 20.76786160469055,
-  "avg_latency_sec": 0.0482973525690478,
-  "throughput_samples_per_sec": 20.705068638500645
+  "total_inference_time_sec": 20.726485013961792,
+  "avg_latency_sec": 0.04820112793944603,
+  "throughput_samples_per_sec": 20.7464024754001
 }

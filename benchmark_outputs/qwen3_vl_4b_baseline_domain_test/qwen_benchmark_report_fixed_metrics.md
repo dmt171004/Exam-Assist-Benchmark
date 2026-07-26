@@ -43,8 +43,8 @@ Number of samples: **430**
 | Overall EM | 13.49% |
 | Overall Token F1 | 62.94% |
 | Overall ROUGE-L | 60.87% |
-| Average Latency | 0.0483 sec/sample |
-| Throughput | 20.71 samples/sec |
+| Average Latency | 0.0482 sec/sample |
+| Throughput | 20.75 samples/sec |
 
 ## Interpretation
 
