@@ -1,6 +1,5 @@
 | Model                                       | Method   | Version   |   Overall EM |   Overall F1 |   ROUGE-L |   Containment |   False Refusal |   Correct Refusal |   Hallucination |   Latency (s) |   Throughput (samples/s) |
 |:--------------------------------------------|:---------|:----------|-------------:|-------------:|----------:|--------------:|----------------:|------------------:|----------------:|--------------:|-------------------------:|
-| Qwen3-VL-4B-Instruct                        | Baseline | -         |      13.4884 |      62.9408 |   60.8653 |       34.5178 |          0.5076 |           61.1111 |         22.2222 |        0.0483 |                  20.7051 |
 | qwen3_examassist_merged_4b_qlora_domain     | QLoRA    | r=8       |      17.907  |      61.2138 |   60.4106 |       36.5482 |          1.0152 |           88.8889 |          5.5556 |        0.0211 |                  47.2815 |
 | qwen3_examassist_merged_4b_rslora_domain_v5 | RSLoRA   | r=16      |      18.6047 |      66.0922 |   64.9226 |       40.3553 |          1.7766 |           91.6667 |          5.5556 |        0.0281 |                  35.5353 |
 | qwen3_examassist_merged_4b_rslora_domain_v4 | RSLoRA   | r=32      |      18.8372 |      65.9006 |   64.412  |       40.8629 |          1.7766 |           91.6667 |          2.7778 |        0.0281 |                  35.5636 |

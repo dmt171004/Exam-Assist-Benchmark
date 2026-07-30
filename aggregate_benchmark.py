@@ -35,43 +35,68 @@ REPORT_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # UTILITIES
 # ==========================================================
 
-def infer_method(folder_name: str) -> str:
+def is_peft_domain_benchmark(folder_name: str) -> bool:
+    """
+    Select only PEFT fine-tuning benchmarks on the domain test set.
+
+    Included
+    --------
+    qwen3_vl_4b_finetuned(qlora)_domain_test
+    qwen3_vl_4b_finetuned(rs8)_domain_test
+    qwen3_vl_4b_finetuned(rs16)_domain_test
+    qwen3_vl_4b_finetuned(rs32)_domain_test
+    """
+
     name = folder_name.lower()
 
-    if "baseline" in name:
-        return "Baseline"
+    # must be domain benchmark
+    if "domain_test" not in name:
+        return False
 
-    if "finetuned(qlora)" in name or "(qlora)" in name:
+    # must be finetuned
+    if "finetuned" not in name:
+        return False
+
+    # exclude other benchmark types
+    excluded = [
+        "baseline",
+        "rag",
+        "no_context",
+        "viquad",
+        "web",
+    ]
+
+    if any(x in name for x in excluded):
+        return False
+
+    # must be qlora or rslora
+    return (
+        "(qlora)" in name
+        or re.search(r"rs\d+", name) is not None
+    )
+
+def infer_method(folder_name: str):
+
+    name = folder_name.lower()
+
+    if "(qlora)" in name:
         return "QLoRA"
 
     if re.search(r"rs\d+", name):
         return "RSLoRA"
 
-    if "lora" in name:
-        return "LoRA"
-
     return "Unknown"
 
 
-def infer_version(folder_name: str) -> str:
-    """
-    Extract LoRA rank/version.
+def infer_version(folder_name: str):
 
-    baseline -> "-"
-    qlora    -> "r=8" (or "-" if you don't want to show rank)
-    rs8      -> "r=8"
-    rs16     -> "r=16"
-    rs32     -> "r=32"
-    """
     name = folder_name.lower()
 
-    if "baseline" in name:
-        return "-"
-
     if "(qlora)" in name:
-        return "r=8"      # hoặc "-" nếu QLoRA là baseline
+        return "r=8"
 
     m = re.search(r"rs(\d+)", name)
+
     if m:
         return f"r={m.group(1)}"
 
@@ -85,7 +110,11 @@ def shorten_model(model_path: str) -> str:
 # MAIN
 # ==========================================================
 
-summary_files = sorted(BENCHMARK_OUTPUT_DIR.rglob(SUMMARY_FILENAME))
+summary_files = sorted(
+    f
+    for f in BENCHMARK_OUTPUT_DIR.rglob(SUMMARY_FILENAME)
+    if is_peft_domain_benchmark(f.parent.name)
+)
 
 if not summary_files:
     raise FileNotFoundError(
