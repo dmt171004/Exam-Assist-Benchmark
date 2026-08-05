@@ -218,7 +218,3 @@ Contains the production-ready ExamAssist AI system integrating Hybrid RAG and th
 ➡️ [https://github.com/yourname/examassist-system](https://github.com/dinhkhoi124/Exam-Proctor-Assist/tree/main)
 
 ---
-
-# License
-
-MIT License
